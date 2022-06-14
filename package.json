@@ -1,0 +1,36 @@
+{
+  "name": "mooncats-on-discord",
+  "version": "1.0.0",
+  "description": "Discord Bot for MoonCats",
+  "main": "App.js",
+  "type": "module",
+  "scripts": {
+    "start": "node App.js",
+    "dev": "nodemon --exec 'npm start'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ctrl-plus-R/MoonCats-on-Discord.git"
+  },
+  "keywords": [
+    "discord",
+    "mooncat",
+    "bot"
+  ],
+  "author": "Ctrl-R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ctrl-plus-R/MoonCats-on-Discord/issues"
+  },
+  "homepage": "https://github.com/Ctrl-plus-R/MoonCats-on-Discord#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
