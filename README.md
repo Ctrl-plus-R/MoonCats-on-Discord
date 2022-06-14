@@ -20,5 +20,5 @@ Required Bot Permission:
 
 ## Accepted Message Format
 
-The bot answers messages with the prefix `#` followed by a valid `rescue index` or `cat ID`.
+The bot answers messages with the prefix `#` followed by a valid `rescue index` or `cat ID`.\
 Examples: `#12345`, `#0x0012345678`
