@@ -1,11 +1,11 @@
 # MoonCat Query Discord Bot
 
-This is a Discord bot which replies to user messages with an embed containing information and a picture of to the requested MoonCat.
+This is a Discord bot which replies to user messages with an embed containing information and a picture of the requested MoonCat.
 
 ## Requirements
 
 Create a [Discord bot](https://discord.com/developers/applications/) and connect it with your Discord server.
-Required Bot Permission:
+Required permissions:
 * Send Messages
 * Embed Links
 * Attach Files
